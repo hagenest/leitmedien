@@ -4,7 +4,7 @@ leitmedien welcomes contributions from the community.
 
 **You need PYTHON3!**
 
-This instructions are for linux base systems. (Linux, MacOS, BSD, etc.)
+This instructions are for Unix base systems. (Linux, MacOS, BSD, etc.)
 ## Setting up your own fork of this repo.
 
 - On github interface click on `Fork` button.
