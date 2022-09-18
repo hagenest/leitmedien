@@ -1,2 +1,2 @@
-def test_database() -> None:
+def test_database():
     pass
